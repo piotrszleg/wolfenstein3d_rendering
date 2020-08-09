@@ -717,7 +717,7 @@ void update(){
     player.update();
 }
 public:
-Wolfenstein3D(int width, int height, Map* map): player(this, map, {0,0}, 200), SDL(width, height), map(map) {}
+Wolfenstein3D(int width, int height, Map* map): player(this, map, {0,0}, 100), SDL(width, height), map(map) {}
 };
 
 int main( int argc, char* args[] )
