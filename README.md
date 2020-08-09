@@ -14,3 +14,8 @@ Linux package managers usually copy the dynamic library files to correct folders
 
 # Compilation and running
 Open your terminal, navigate to this folder and type in `make run`.
+
+# Screenshots
+![Screenshot_2](https://user-images.githubusercontent.com/16499460/89737107-de5b3b00-da6e-11ea-8a51-0ad2845d1d51.png)
+![Screenshot_5](https://user-images.githubusercontent.com/16499460/89737109-def3d180-da6e-11ea-8688-a1ffce4fcb35.png)
+![Screenshot_1](https://user-images.githubusercontent.com/16499460/89737110-df8c6800-da6e-11ea-91f3-020a53cbb8c7.png)
